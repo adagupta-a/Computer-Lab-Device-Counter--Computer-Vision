@@ -1,0 +1,17 @@
+path: "/Users/adagupta/Downloads/LabEquipVis An Image Dataset of Computer Laborator/Original Data"
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names:
+  0: Ac
+  1: Chair
+  2: Cpu
+  3: Digital board
+  4: Fire Extinguisher
+  5: Keyboard
+  6: Light
+  7: Monitor
+  8: Mouse
+  9: Projector

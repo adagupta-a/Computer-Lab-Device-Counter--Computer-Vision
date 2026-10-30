@@ -1,0 +1,19 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Training data and runs
+dataset/
+Original Data/
+Augmented Data/
+runs/
+*.cache
+
+# Generated outputs
+outputs/
+.DS_Store
+
+# Secrets
+.env
